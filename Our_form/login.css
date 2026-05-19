@@ -1,0 +1,117 @@
+*{
+    padding: 0em;
+    margin: 0em;
+    font-size: 'poppins',sans-serif;
+    font-size: 18px;
+    color: black;
+}
+
+section{
+    width: 90%;
+    height: 90vh;
+    justify-self: center;
+    margin: 1.5em;
+}
+
+#kodda{
+    justify-self: center;
+    margin: 1em;
+    color: #fff;
+
+}
+span{
+    text-shadow: 3px 2px 2cap purple;
+    color: #fff;
+    font-size: 25px;
+}
+
+.log_sign{
+    justify-self: center;
+    display: flex;
+    flex-direction: column;
+    width: 40%;
+
+ }
+
+.top{
+    display: inline-flex;
+    justify-content: space-between;
+    padding: 0.3em 5em;
+    background: linear-gradient(90deg, #fff, rgba(255, 255, 255, 0.526), #fff);
+}
+h4{
+    color: #02022a;
+}
+
+#log{
+    width: 50%;
+    border-right: 2px solid black;
+    text-align: center;
+    cursor: pointer;
+}
+#sign{
+    width: 50%;
+    text-align: center;
+    cursor: pointer;
+}
+.forms{
+    height:70vh;
+    background: linear-gradient(90deg, rgb(7, 7, 56),rgba(2, 2, 130, 0.705));
+    border-radius: 5px;
+}
+body{
+    background: linear-gradient(150deg, #02022a, #820182);
+}
+
+#signIn{
+    flex-direction: column;
+    gap: 1em;
+    justify-self: center;
+    width: 95%;
+    margin: 4em;
+}
+#signUp{
+    display: none;
+    flex-direction: column;
+    gap: .2em;
+    justify-self: center;
+    width: 95%;
+    margin: 1em;
+
+}
+
+#field{
+    display: flex;
+    flex-direction: column;
+}
+
+.btn{
+    align-items: center;
+}
+
+input{
+    padding: .2em 1em;
+    border: none;
+    outline: 1px solid blue;
+}
+
+label{
+    color: #fff;
+}
+
+#act{
+    color: #fff;
+    padding: .3em .5em;
+    margin: 1.5em;
+    border: none;
+    cursor: pointer;
+    transition: .2s;
+    box-shadow: 2px 3px 4px black;
+    background-size: 0%;
+    background: linear-gradient(135deg,rgb(126, 112, 249),rgba(255, 255, 255, 0.676));
+}
+#act:hover{
+    background: linear-gradient(-135deg,rgba(89, 73, 237, 0.817),rgb(63, 1, 63));
+    background-size: 100%;
+}
+

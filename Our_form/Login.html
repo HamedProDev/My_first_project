@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kodda</title>
+    <link rel="stylesheet" href="login.css">
+</head>
+<body>
+    <section>
+
+    <div class="welcome">
+        <h2 id="kodda">
+            Welcome to <span>Kodda </span>
+        </h2>
+    </div>
+
+    <div class="log_sign">
+        <div class="top">
+            <h4 id="log" onclick="show_hide_form('signIn')" >Sing In</h4>
+            <h4 id="sign" onclick="show_hide_form('signUp')" >Sing Up</h4>
+        </div>
+        <div class="forms">
+            <form id="signIn" method="get">
+                <div class="usrnm" id="field">
+                    <label for="usrnm">Username:</label>
+                    <input type="text" autofocus placeholder="username" id="usrnm" required>
+                </div>
+                <div class="email" id="field">
+                    <label for="email">Email:</label>
+                    <input type="email" placeholder="example@gmail.com" id="email" required>
+                </div>
+
+                <div class="passwd" id="field">
+                    <label for="passwd">Password:</label>
+                    <input type="password" placeholder="password" id="passwd" required>
+                </div>
+                
+
+                <div class="btn" id="field">
+                    <button id="act" >Sign In</button>
+                </div>
+            </form>
+
+            <form id="signUp" action="../../backend/index.php
+            " method="POST">
+
+                 <div class="usrnm" id="field">
+                    <label for="usrnm">Username:</label>
+                    <input type="text" placeholder="username" id="usrnm" required>
+                </div>
+                <div class="email" id="field">
+                    <label for="email">Email:</label>
+                    <input type="email" placeholder="example@gmail.com" id="email" required>
+                </div>
+
+                <div class="passwd" id="field">
+                    <label for="passwd">Password:</label>
+                    <input type="password" placeholder="password" id="passwd" required>
+                </div>
+                <div class="repasswd" id="field">
+                    <label for="passwd">Confirm Password:</label>
+                    <input type="password" placeholder="confirm password" id="repasswd" required>
+                </div>
+                 <div class="github" id="field">
+                    <label for="github">Github:</label>
+                    <input type="url" placeholder="https://github.com/username" id="github" required>
+                </div>
+                 <div class="linkedin" id="field">
+                    <label for="linkedin">LinkedIn:</label>
+                    <input type="url" placeholder="https://linkedin.com/username" id="linkedin" required>
+                </div>
+                
+                
+                <div class="btn" id="field">
+                    <button id="act"  onclick="window.location.href='/frontend/pages/courses.html'">Sign Up</button>
+                </div>
+
+            </form>
+        </div>
+    </div>
+
+    </section>    
+    <script src="login.js"></script>
+</body>
+</html>
