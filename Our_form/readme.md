@@ -26,8 +26,8 @@ We also done alot of work in ICT, VC and other modules
  + [My_figma_design](https://github.com/HamedProDev/My_figma_design)
 
 - *Our Figma designs*
- + [EduMentor AI Mockup](https://www.figma.com/proto/xxcivW5nmCobVxym2eUA9D/EduMentor-AI?node-id=0-1)
-
+ + [EduMentor AI Mockup](https://www.figma.com/proto/xxcivW5nmCobVxym2eUA9D/EduMentor-AI?node-id=3-712&starting-point-node-id=3%3A712&t=nxgSUBlLWAlOTEek-1)
+ + or  [EduMentor Ai edit](https://www.figma.com/design/xxcivW5nmCobVxym2eUA9D/EduMentor-AI?t=6LduSPqRCmOIezbQ-0)
 #### The next move
 ```
 We hope to improve our levels in Version Control skills
