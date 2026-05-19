@@ -18,3 +18,15 @@ We built a login form with htmkl, css and javascript
 A user can login and her/his credentials are stored successifully 
 We also done alot of work in ICT, VC and other modules
 ```
+
+ ## __Links__
+
+- *Our Repositories*
+ + [My_first_project](https://github.com/HamedProDev/My_first_project)
+ + [My_figma_design](https://github.com/HamedProDev/My_figma_design)
+
+- *Our Figma designs*
+ + [EduMentor AI Mockup]()
+ + []()
+  
+  
