@@ -21,12 +21,17 @@ We also done alot of work in ICT, VC and other modules
 
  ## __Links__
 
-- *Our Repositories*
+- *Our Repositories*(click to visit)
  + [My_first_project](https://github.com/HamedProDev/My_first_project)
  + [My_figma_design](https://github.com/HamedProDev/My_figma_design)
 
 - *Our Figma designs*
- + [EduMentor AI Mockup]()
- + []()
+ + [EduMentor AI Mockup](https://www.figma.com/files/team/1616729780706747060/recents-and-sharing?fuid=1616729779307191670)
+
+#### The next move
+```
+We hope to improve our levels in Version Control skills
+such as Continous Development and Continous Intergration
+```
   
   
