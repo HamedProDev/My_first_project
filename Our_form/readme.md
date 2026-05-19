@@ -26,7 +26,7 @@ We also done alot of work in ICT, VC and other modules
  + [My_figma_design](https://github.com/HamedProDev/My_figma_design)
 
 - *Our Figma designs*
- + [EduMentor AI Mockup](https://www.figma.com/files/team/1616729780706747060/recents-and-sharing?fuid=1616729779307191670)
+ + [EduMentor AI Mockup](https://www.figma.com/proto/xxcivW5nmCobVxym2eUA9D/EduMentor-AI?node-id=0-1)
 
 #### The next move
 ```
