@@ -3,10 +3,11 @@
 - Hamed Hussein
 - Umuhire Suptan
 - Hagenimana Bashir
+- Murekatete Beathe
+- Sibomana Denis
+- Niyogusa Benitha
+- Harerimana Gad
 - 
--
--
--
 ```
 We have made alot of work in the internership period and we wish you could view Our work here.
 ```
