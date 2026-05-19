@@ -8,7 +8,8 @@
 -
 -
 ```
-We have made alot of work in the internership period and we wish you could view Our work here.
+We have made alot of work in the internership period and
+we wish you could view Our work here.
 ```
 
 ## What we did
